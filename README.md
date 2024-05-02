@@ -14,10 +14,6 @@ If you're interested in having the Pump.fun bot access or have any doubts , plea
 Get the bot access that does automated trading.
 
 
-https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/54ca8d19-d090-4858-b66a-025606219f6b
-
-
-
 ![hksjdksklds](https://raw.githubusercontent.com/pumpfun/pump.fun-bot/main/pump.fun-bot.gif)
 
 # Is it a legit project ?
@@ -26,7 +22,7 @@ The bot uses pumpfun program and solana web3 modules written in JavaScript to au
 
 #### Bots trades transaction as below:
 
-![IMG_20240421_152729_819](https://github.com/0xdevlen/Ultra-pump.fun-bot/assets/166412248/f1b97707-64a0-4739-a15b-be2cad204fe5)
+![IMG_20240421_152729_819](https://raw.githubusercontent.com/pumpfun/pump.fun-bot/main/pumpfunbot.png)
 
 
 ## Do it snipe every token ?
